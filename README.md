@@ -1,2 +1,2 @@
-# resouce-manage-system
+# resource-manage-system
 资源管理系统
